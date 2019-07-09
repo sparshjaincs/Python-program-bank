@@ -1,0 +1,37 @@
+1.   write a program to print hello world.
+2.   write a program to check even or odd.
+3.   write a program to swap two numbers.
+4.   write a program to print GCD of two numbers.
+5.   write a program to check prime number.
+6.   write a program to print multiplication table.
+7.   write a program to print factorial of a number.
+8.   write a program to check maximun between three number.
+9.   write a program to check whether number is postive, neagative or zero.
+10.   write a program to add two numbers using functions.
+11.   write a program to swap two numbers using function.
+12.   write a program to print factorial of a number using function.
+13.   write a program to print lcm of two numbers using function.
+14.   write a program to print gcd of two numbers using function,
+15.   write a program to print albhabet rangoli .
+16.   write a program to print doormat.
+17.   decorator1
+18.   decorator 2
+19.   
+20.   
+21.   lambda funnction1
+22.   write a function to print hello world n times using recursion.
+23.   write a program to print factorial using recursion.
+24.   write a program to print lcm of two numbers using recursion.
+25.   write a program to check prime number is prime or not prime using recursion.
+26.   write a  program to add two complex number using class and objects.
+27.   function overloading.
+28.   operator overloading.
+29.   single level inheritance.
+30.   multi level inheritance.
+31.   multiple inheritance.
+32.   hierarchical inheritance.
+33.   hybrid inheritance.
+34.   write a program to print square root of a number.
+35.   write a program to print area of a triangle.
+36.   iurwehtr
+37.   dwretreytruytuqewretrytuyu
